@@ -38,4 +38,11 @@
     "eslint-config-next": "12.2.5",
     "sass": "^1.54.8"
   }
+  {
+  "name": "...",
+  ...
+  "engines": {
+    "node": "18.x"
+  }
+}
 }
